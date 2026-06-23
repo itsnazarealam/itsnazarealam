@@ -1,4 +1,8 @@
 # 💫 Hi 👋, I'm Md Nazare Alam
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=itsnazarealam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 **A Backend Developer || Java Developer**
 
 Email Me 👉 ✉️ **itsnazarealam@gmail.com** For Hiring, Project or Anything Else. 😊😊
@@ -8,6 +12,7 @@ Email Me 👉 ✉️ **itsnazarealam@gmail.com** For Hiring, Project or Anything
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Nazare
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 
 
 <!-- Snake Game Repo View -->
@@ -29,10 +34,5 @@ Email Me 👉 ✉️ **itsnazarealam@gmail.com** For Hiring, Project or Anything
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsnazarealam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=itsnazarealam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
