@@ -44,6 +44,7 @@ A campus recruitment platform where students can check eligibility, apply for jo
 - Hibernate
 - REST APIs
 
+---
 
 ## 2️⃣ Smart Reservation System
 
