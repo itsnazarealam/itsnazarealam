@@ -31,7 +31,7 @@ Email Me 👉 ✉️ **itsnazarealam@gmail.com** For Hiring, Project or Anything
 
 ---
 
-## 1️⃣ Placement Portal System
+## 1️⃣ Campus Hire 
 
 A campus recruitment platform where students can check eligibility, apply for jobs, and track application status. Companies can post opportunities, and teachers can manage student data through Excel uploads.
 
@@ -44,6 +44,7 @@ A campus recruitment platform where students can check eligibility, apply for jo
 - Hibernate
 - REST APIs
 
+Live - https://campus-hire-murex.vercel.app/
 ---
 
 ## 2️⃣ Smart Reservation System
